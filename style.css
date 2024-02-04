@@ -1,0 +1,66 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #87CEEB; /* Sky Blue background */
+}
+
+.calculator {
+    background-color: #161010; /* Light Black */
+    border: 1px solid #110f0f;
+    border-radius: 4px;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2), -10px -10px 15px rgba(0, 0, 0, 0.2); /* Box shadow on both sides */
+    overflow: hidden;
+    width: 300px;
+}
+
+.display {
+    background-color: #4caf50;
+    color: #fff;
+    font-size: 1.5em;
+    padding: 15px;
+    text-align: right;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5px;
+}
+
+button {
+    border: none;
+    font-size: 1.2em;
+    padding: 20px;
+    cursor: pointer;
+}
+
+button.operator {
+    background-color: #FF9800;
+    color: #fff;
+}
+
+button.equal {
+    background-color: #2196F3;
+    color: #fff;
+    grid-column: span 2; /* Make '=' button span two columns */
+}
+
+button.number {
+    background-color: #E0E0E0;
+}
+
+button.clear {
+    background-color: #390cb4; /* Blue color for the DEL button */
+    color: #fff;
+}
+button.del { /* Added a specific class for the DEL button */
+    background-color: #F44336;
+                                    /* Blue color for the DEL button */
+    color: #fff;
+}
+button:hover {
+    background-color: #ddd;
+}

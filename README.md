@@ -31,3 +31,4 @@ You will need a web browser (e.g., Chrome, Firefox, Edge) installed on your comp
 ### Live Demo
 
 Check out the [live demo](https://keerthana1417.github.io/calculator/) of the calculator.
+![Screenshot (60)](https://github.com/Keerthana1417/calculator/assets/126092175/f10a6fa2-8931-4663-9d02-142bc33e79a8)

@@ -39,13 +39,6 @@ Check out the [live demo](https://keerthana1417.github.io/calculator/) of the ca
 ## Screenshot 
 ![Screenshot (60)](https://github.com/Keerthana1417/calculator/assets/126092175/f10a6fa2-8931-4663-9d02-142bc33e79a8)
 
-## Project Structure
-Validation-form/
-
- #index.html        # The main HTML file
- #style.css         # The CSS file for styling
- #script.js         # The JavaScript file for functionality
-
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.

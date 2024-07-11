@@ -28,3 +28,6 @@ You will need a web browser (e.g., Chrome, Firefox, Edge) installed on your comp
 1. Clone the repo:
    ```sh
    git clone https://github.com/keerthana1417/calculator.git
+### Live Demo
+
+Check out the [live demo](https://keerthana1417.github.io/calculator/) of the calculator.

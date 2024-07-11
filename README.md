@@ -29,7 +29,7 @@ You will need a web browser (e.g., Chrome, Firefox, Edge) installed on your comp
    ```sh
    git clone https://github.com/keerthana1417/calculator.git
    
- 2. Navigate to the project directory
+2. Navigate to the project directory
    ```sh
    cd Validation-form
 

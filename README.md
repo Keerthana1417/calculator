@@ -31,7 +31,7 @@ You will need a web browser (e.g., Chrome, Firefox, Edge) installed on your comp
    
 2. Navigate to the project directory
    ```sh
-   cd Validation-form
+   cd calculator
 
 ### Usage
 

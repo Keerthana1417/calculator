@@ -61,7 +61,7 @@ Project Link: [https://github.com/Keerthana1417/calculator.git]
 
 ## Acknowledgments
 
-- Inspiration: [Validation Form Example]
+- Inspiration: [Calculator Project Example]
 - Resources: [MDN Web Docs]
 
 

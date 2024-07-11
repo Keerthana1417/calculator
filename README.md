@@ -57,7 +57,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Keerthana - [keerthanasamala1411@gmail.com]
 
-Project Link: [https://github.com/Keerthana1417/Validation-form]
+Project Link: [https://github.com/Keerthana1417/calculator.git]
 
 ## Acknowledgments
 
